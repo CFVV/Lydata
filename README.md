@@ -1,8 +1,9 @@
-# Lydata
 
-Space Apps Challenge Santiago 2019
+# Space Apps Challenge Santiago 2019
 CHASERS OF THE LOST DATA | EVERYTHING'S NOT LOST
-Improve information processing by imputing the lost data that will later be used in ML models in order to improve the accuracy of predictions or classification models.
+
+# Lydata
+Architecture that improve information processing by imputing the lost data that will later be used in ML models in order to improve the accuracy of predictions or classification models.
 
 ## BACKGROUND
 
@@ -14,3 +15,9 @@ Due to external events such as cosmic rays, electromagnetic pulses and others, c
 Improve information processing by imputing the lost data that will later be used in ML models in order to improve the accuracy of predictions or classification models.
 We focus on the design of a architecture capable of receiving data from NASA's electronic instruments, and impute the missing data for maximize the most important features that the ML engineer needs to be able to develop projects with great performance.
 The system is not only focuses on improving the loss of data from NASA's instruments but also engages in the improvement of any electronic device capable of acquiring data from its environment.
+
+## LAIKA TEAM
+- Andrés Soriano
+- Nicolas Monge
+- Ignacio Loayza
+- Camila Vera
